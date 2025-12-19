@@ -47,3 +47,9 @@ Este proyecto se enfoca en practicar conceptos básicos de Python como variables
 python-cert-week01/
 ├── promedio_3_notas.py
 └── README.md
+
+---
+## 🚀 How to Run / Cómo Ejecutar
+
+```bash
+python promedio_notas.py
