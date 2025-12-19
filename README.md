@@ -34,25 +34,29 @@ Este proyecto se enfoca en practicar conceptos básicos de Python como variables
 
 ## 🎯 Learning Objectives / Objetivos de Aprendizaje
 
-- Understand and use variables
-- Work with user input (`input()`)
-- Apply conditional logic (`if / else`)
-- Perform basic arithmetic operations
+- Understand and use variables  
+- Work with user input (input())  
+- Apply conditional logic (if / else)  
+- Perform basic arithmetic operations  
 
 ---
 
 ## 📂 Project Structure / Estructura del Proyecto
 
-```text
-python-cert-week01/
-├── promedio_3_notas.py
-└── README.md
+    python-cert-week01/
+    ├── promedio_3_notas.py
+    └── README.md
 
 ---
 
 ## 🚀 How to Run / Cómo Ejecutar
 
-```bash
-python promedio_3_notas.py
+    python promedio_3_notas.py
 
 ---
+
+## 📚 Notes / Notas
+
+This is an introductory learning project and part of a structured study plan focused on software development with AI.
+
+Este es un proyecto introductorio de aprendizaje y forma parte de un plan estructurado orientado al desarrollo de software con IA.
