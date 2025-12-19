@@ -49,7 +49,9 @@ python-cert-week01/
 └── README.md
 
 ---
+
 ## 🚀 How to Run / Cómo Ejecutar
 
 ```bash
-python promedio_notas.py
+python promedio_3_notas.py
+
